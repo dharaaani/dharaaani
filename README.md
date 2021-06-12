@@ -1,6 +1,8 @@
 ### 
  ECE in easwari engineering college
- Project Manager at Ccxnews.com
+ 
+
+Project Manager at Ccxnews.com
  
  
  Linkedin - https://www.linkedin.com/in/dharanii
