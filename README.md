@@ -2,7 +2,7 @@
  ECE in easwari engineering college
  
 
-Project Manager at Ccxnews.com
+Project Manager at Kaafila , Wilimgtom Delaware
  
  
  Linkedin - https://www.linkedin.com/in/dharanii
