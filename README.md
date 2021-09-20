@@ -1,14 +1,10 @@
-### 
- ECE in easwari engineering college
- 
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
+<a href="https://www.linkedin.com/in/dharanii/">
+  <img align="left" alt="dharani's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
 
 
- 
- 
- Linkedin - https://www.linkedin.com/in/dharanii
 
-<!--
-**dharani1303/dharani1303** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
- I’m currently learning ECE in easwari engineering college
 
--->
+
