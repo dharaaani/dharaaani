@@ -19,15 +19,15 @@ You can find me on<a href="https://www.linkedin.com/in/dharanii/">
 ## &#x1f4c8; GitHub Stats
 
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=vaulstein&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=dharani1303&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  
 
-![Metrics](https://metrics.lecoq.io/vaulstein?template=terminal&languages=1&stars=1&stackoverflow=1&languages.colors=github&languages.threshold=0%25&stars.limit=4&stackoverflow.user=1934182&stackoverflow.sections=answers-top%2C%20questions-recent&stackoverflow.limit=2&stackoverflow.lines=4&config.timezone=Asia%2FCalcutta)
+![Metrics](https://metrics.lecoq.io/dharani1303?template=terminal&languages=1&stars=1&stackoverflow=1&languages.colors=github&languages.threshold=0%25&stars.limit=4&stackoverflow.user=1934182&stackoverflow.sections=answers-top%2C%20questions-recent&stackoverflow.limit=2&stackoverflow.lines=4&config.timezone=Asia%2FCalcutta)
 
 
 
 <p></p>
-<a width="800px" href="https://github.com/vaulstein/python-project-blueprint">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vaulstein&repo=awsprofile&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a width="800px" href="https://github.com/dharani1303/python-project-blueprint">
+  
 </a>
 <p></p>
 
