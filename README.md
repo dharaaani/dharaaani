@@ -11,8 +11,8 @@ You can find me on<a href="https://www.linkedin.com/in/dharanii/">
  
 <img alt="Python" src="https://img.shields.io/badge/Code-Python-informational?style=for-the-badge&logo=python&logoColor=white"/>
  <img alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
- <img alt="Javascript" src="https://img.shields.io/badge/SCALA-SCALA-lightgrey?style=for-the-badge&logo=scala&logoColor=white" />
- <img alt="React.js" src="https://img.shields.io/badge/MongoDB-lightgreen?style=for-the-badge&logo=mongodb&logoColor=4EA94B" />
+ <img alt="Javascript" src="https://img.shields.io/badge/Javascript-lightgrey?style=for-the-badge&logo=scala&logoColor=white" />
+ <img alt="React.js" src="https://img.shields.io/badge/React.js-lightgreen?style=for-the-badge&logo=mongodb&logoColor=4EA94B" />
 
 </p>
 
@@ -21,7 +21,7 @@ You can find me on<a href="https://www.linkedin.com/in/dharanii/">
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=dharani1303&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  
 
-![Metrics](https://metrics.lecoq.io/dharani1303?template=terminal&languages=1&stars=1&stackoverflow=1&languages.colors=github&languages.threshold=0%25&stars.limit=4&stackoverflow.user=1934182&stackoverflow.sections=answers-top%2C%20questions-recent&stackoverflow.limit=2&stackoverflow.lines=4&config.timezone=Asia%2FCalcutta)
+
 
 
 
