@@ -1,6 +1,7 @@
 
 ### Hi, My name is Dharani S<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-You can find me on<a href="https://www.linkedin.com/in/dharanii/">
+You can find me on
+<a href="https://www.linkedin.com/in/dharanii/">
   <img align="left" alt="dharani's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
@@ -24,11 +25,6 @@ You can find me on<a href="https://www.linkedin.com/in/dharanii/">
 
 
 
-
-<p></p>
-<a width="800px" href="https://github.com/dharani1303/python-project-blueprint">
-  
-</a>
 <p></p>
 
 <div align="center">
@@ -37,30 +33,3 @@ You can find me on<a href="https://www.linkedin.com/in/dharanii/">
 
 
 Visitor Count: ![Visitor Count](https://profile-counter.glitch.me/dharani1303/count.svg)
-
-
-<!-- links to social media icons -->
-
-<!-- icons with padding -->
-
-[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
-[2.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
-
-<!-- icons without padding -->
-
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
-
-
-<!-- links to your social media accounts -->
-
-[1]: https://github.com/dharani1303
-[2]: https://www.linkedin.com/in/dharanii/
-
-
-<!-- Resources -->
-<!-- Icons: https://simpleicons.org/ -->
-<!-- GitHub Stats: https://github.com/anuraghazra/github-readme-stats -->
-<!-- Emojis: https://emojipedia.org/emoji/ -->
-<!-- HTML Emojis: https://www.fileformat.info/index.htm -->
-<!-- Shields: https://shields.io/ -->
