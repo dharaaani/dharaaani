@@ -27,7 +27,7 @@
 <p></p>
 
 <div align="center">
-<img src="https://github.com/dharani1303/dharani1303/blob/master/github-user-contribution.svg"></img>
+<img src="https://github.com/kothagirji/kothagirji/blob/master/github-user-contribution.svg"></img>
 </div>
 
 
