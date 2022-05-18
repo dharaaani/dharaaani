@@ -7,14 +7,27 @@
 
 ## 🔧 Technologies & Tools
 
-<p align="center">
- <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> 
-<img alt="HTML/CSS" src="https://img.shields.io/badge/Code-Python-informational?style=for-the-badge&logo=python&logoColor=white"/>
- <img alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
- <img alt="Javascript" src="https://img.shields.io/badge/Javascript-lightgrey?style=for-the-badge&logo=javascript&logoColor=white" />
- <img alt="React.js" src="https://img.shields.io/badge/React.js-lightgreen?style=for-the-badge&logo=react.js&logoColor=4EA94B" />
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
+<br />
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![jQuery](https://img.shields.io/badge/-jQuery-05122A?style=flat&logo=jQuery)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 
-</p>
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL)&nbsp;
+<br />
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+<br />
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+
+## &#x1f4c8; GitHub Stats
+
+
+ <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dharani1303&theme=radical" alt="dharani1303" /></p>
+ 
+ <br />
 
 ## &#x1f4c8; GitHub Stats
 
@@ -26,9 +39,7 @@
 
 <p></p>
 
-<div align="center">
-<img src="https://github.com/kothagirji/kothagirji/blob/master/github-user-contribution.svg"></img>
-</div>
+
 
 
 Visitor Count: ![Visitor Count](https://profile-counter.glitch.me/dharani1303/count.svg)
