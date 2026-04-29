@@ -24,12 +24,3 @@ I'm Dharani Shanmugam, an experienced Software Developer with a passion for buil
 
 
 
-
-Visitor Count: ![Visitor Count](https://profile-counter.glitch.me/dharani1303/count.svg)
-
-
-
-
-
-
-
